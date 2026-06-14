@@ -1,34 +1,40 @@
-#car-rental-system
-A lightweight PHP car rental system running on Raspberry Pi Zero 2W
+# LZW Car Rental System
 
-The system allows users to:
+A lightweight PHP-based car rental management system
+running on Raspberry Pi Zero 2W.
 
-Browse available cars
-Create rental bookings
-View rental history
+## Features
 
-The administrator can:
+### User
+- Browse available cars
+- Create rental bookings
+- View rental history
 
-Manage cars
-Manage users
-Manage rental records
-Perform CRUD operations on the database
+### Admin
+- Manage cars
+- Manage users
+- Manage reservations
 
-#Technologies
+## Technologies
 
-Apache2
-PHP
-MariaDB
-HTML/CSS
-Raspberry Pi Zero 2W
+- PHP
+- MariaDB
+- Apache2
+- Raspberry Pi Zero 2W
+- DietPi
+- Git
 
-#Team Members
+## My Contributions
 
-*413850305 宋柏穎
-*413850164 侯冠丞
-*413850149 張恩睿
-*413850297 李諺儒
-*413850446 陳昱丞
+- Raspberry Pi deployment
+- Apache configuration
+- Database setup
+- Backend development
+- Testing and debugging
 
+## Future Improvements
 
+- QR Code Vehicle Access
+- GPS Tracking
+- Mobile Responsive UI
 
